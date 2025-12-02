@@ -1,0 +1,11 @@
+{
+  "name": "ghost-analytics",
+  "description": "Script to pull the last 12 months of Ghost Admin stats and Tinybird KPIs, then write two CSVs (aggregate and daily) plus a console table.",
+  "author": "Ben Greenberg",
+  "license": "MIT",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
